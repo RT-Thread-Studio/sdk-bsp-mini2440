@@ -1,0 +1,1 @@
+# sdk-bsp-mini2440
